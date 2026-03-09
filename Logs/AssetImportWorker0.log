@@ -714,3 +714,115 @@ Received Import Request.
 Start importing Assets/Sprites/Player Sprites/PlayerJumpSprite.psd using Guid(32ab0d25e605204489977f3b081bdf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5ed328ed0e5ef8ad762720a8424825c') in 0.0269735 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
+========================================================================
+Received Import Request.
+  Time since last request: 3504.405866 seconds.
+  path: Assets/Sprites/DiskSpriteAnimation.psd
+  artifactKey: Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DiskSpriteAnimation.psd using Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a82f84c4e89f218f12947e71fda4407d') in 0.1969604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.481530 seconds.
+  path: Assets/Sprites/Player Sprites/PlayerJumpSprite.psd
+  artifactKey: Guid(32ab0d25e605204489977f3b081bdf8a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Player Sprites/PlayerJumpSprite.psd using Guid(32ab0d25e605204489977f3b081bdf8a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b9a3cf7546e6173c11d0168681a529be') in 1.1885363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/Level1.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4914357a71ce7a4bd72ce6c0c86974cc') in 0.0623382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/Player Sprites/Player Sprite Anim/PlayerMove.anim
+  artifactKey: Guid(34c6856f424e91148b527721b304034b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Player Sprites/Player Sprite Anim/PlayerMove.anim using Guid(34c6856f424e91148b527721b304034b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e7504f0d6e18cf062e0c024cfc15a739') in 0.0701606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.466719 seconds.
+  path: Assets/Sprites/Disk Sprites
+  artifactKey: Guid(07165a6a83f635141928ca8b0f00ae8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Disk Sprites using Guid(07165a6a83f635141928ca8b0f00ae8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c79c92cc9d759ce0c7d75e11c2a4454') in 0.0056458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.781888 seconds.
+  path: Assets/Sprites/Disk Sprites
+  artifactKey: Guid(07165a6a83f635141928ca8b0f00ae8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Disk Sprites using Guid(07165a6a83f635141928ca8b0f00ae8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0f0b52c1334b65059c87617554712813') in 0.0267056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.197258 seconds.
+  path: Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd
+  artifactKey: Guid(e91f1dd7f249ee142988650efae96d3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd using Guid(e91f1dd7f249ee142988650efae96d3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'de0f73002612ce2687b24703f7636a8e') in 0.1550506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.732834 seconds.
+  path: Assets/Sprites/Disk Sprites/Disk Sprite Anim
+  artifactKey: Guid(47872a871ceb8094e8be0f87c5f1f942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Disk Sprites/Disk Sprite Anim using Guid(47872a871ceb8094e8be0f87c5f1f942) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b56177c2219caa3a7012b263de648372') in 0.0012049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.784958 seconds.
+  path: Assets/Sprites/Disk Sprites/Disk Sprite Anim
+  artifactKey: Guid(47872a871ceb8094e8be0f87c5f1f942) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Disk Sprites/Disk Sprite Anim using Guid(47872a871ceb8094e8be0f87c5f1f942) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a299d2675a4e74aa056c1bfab1cf000') in 0.0204349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.438943 seconds.
+  path: Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd
+  artifactKey: Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd using Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17ef0c7daec984ca150cd5846ddbc45b') in 0.071244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.434380 seconds.
+  path: Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd
+  artifactKey: Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Disk Sprites/DiskSpriteAnimation.psd using Guid(e91f1dd7f249ee142988650efae96d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f243356090c56bb9299caae547f30c8d') in 0.0770586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.718909 seconds.
+  path: Assets/Sprites/Disk Sprites/Disk Sprite Anim/DiskSpriteAnimation_0.controller
+  artifactKey: Guid(d62c740af6de0b54ba21c068268444aa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Disk Sprites/Disk Sprite Anim/DiskSpriteAnimation_0.controller using Guid(d62c740af6de0b54ba21c068268444aa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9d23470fda2fef37e03e95546f9b5d1f') in 0.0450703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.741373 seconds.
+  path: Assets/Sprites/Disk Sprites/Disk Sprite Anim/DiskSpriteAnimation_0.controller
+  artifactKey: Guid(d62c740af6de0b54ba21c068268444aa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Disk Sprites/Disk Sprite Anim/DiskSpriteAnimation_0.controller using Guid(d62c740af6de0b54ba21c068268444aa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5e08f61b4a2bca0292125972fd395959') in 0.0264243 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/Level1.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6c5e278a2fa4651152a60346a0d730f0') in 0.0254893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
