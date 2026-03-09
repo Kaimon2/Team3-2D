@@ -18,6 +18,9 @@ public class PlayerMovement : MonoBehaviour
     private int lives = 3;
     public Vector2 spawnPoint;
 
+    public AudioSource playerAudio;
+    public AudioClip pickup;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -66,6 +69,8 @@ public class PlayerMovement : MonoBehaviour
             Destroy(collision.gameObject);
             treasure++;
             Treasure.text = "Treasure = " + treasure;
+            playerAudio.clip = pickup;
+            playerAudio.Play();
         }
 
         if (collision.CompareTag("Lava"))
