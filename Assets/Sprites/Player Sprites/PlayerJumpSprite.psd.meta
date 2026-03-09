@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 3ace0f3f8d621544da874c4b9174fa13
+guid: 32ab0d25e605204489977f3b081bdf8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1068806513580023504
-    second: PlayerIdleAnimation_0
-  - first:
-      213: -475291969927540450
-    second: PlayerIdleAnimation_1
+      213: -1226145403610552552
+    second: PlayerJumpSprite_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerIdleAnimation_0
+      name: PlayerJumpSprite_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 35
-        height: 45
+        x: 2
+        y: 2
+        width: 28
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0de9f8f7cd925de00800000000000000
-      internalID: 1068806513580023504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerIdleAnimation_1
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 0
-        width: 35
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e119fd7b87c6769f0800000000000000
-      internalID: -475291969927540450
+      spriteID: 817a0d6704bdbfee0800000000000000
+      internalID: -1226145403610552552
       vertices: []
       indices: 
       edges: []
@@ -150,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: be9485b0cadac3641b100e06170a654a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PlayerIdleAnimation_0: 1068806513580023504
-      PlayerIdleAnimation_1: -475291969927540450
+      PlayerJumpSprite_0: -1226145403610552552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
