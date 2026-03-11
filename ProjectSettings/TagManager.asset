@@ -8,6 +8,7 @@ TagManager:
   - Coin
   - Lava
   - Exit
+  - Audio
   layers:
   - Default
   - TransparentFX

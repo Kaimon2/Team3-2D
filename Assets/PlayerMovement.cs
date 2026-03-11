@@ -20,6 +20,9 @@ public class PlayerMovement : MonoBehaviour
 
     public AudioSource playerAudio;
     public AudioClip pickup;
+    public AudioClip death;
+    public AudioClip jump;
+
 
     void Start()
     {
@@ -32,7 +35,9 @@ public class PlayerMovement : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded) 
         { 
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); 
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            playerAudio.clip = jump;
+            playerAudio.Play();
         }
 
         if(treasure == 10)
@@ -79,6 +84,8 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
             lives--;
             Lives.text = "Lives = " + lives;
+            playerAudio.clip = death;
+            playerAudio.Play();
         }
 
         if (collision.CompareTag("Exit"))
